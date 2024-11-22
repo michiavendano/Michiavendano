@@ -7,21 +7,25 @@
 </p>
 
 <p align="center">
-  ¡Hola! Es un placer saludarte. Me alegra compartir contigo que estoy en el inicio del décimo semestre de mi carrera en ingeniería civil industrial y que siento un fuerte interés por el campo de la ciencia de datos. Aquí encontrarás un poco más sobre mí y mis intereses.
-</p>
+Tesista con formación en Ingeniería Civil Industrial y un Magíster en
+Ciencia de Datos. Experta en análisis de datos, machine learning,
+y deep learning, con experiencia en el manejo de Python, Excel,
+SQL y NoSQL. Capacitada para desarrollar modelos predictivos
+y optimizar procesos, aportando soluciones innovadoras basadas
+en datos. Motivada para asumir desafíos y contribuir al crecimiento
+organizacional con un enfoque en inteligencia artificial y gestión de
+datos.</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/97/db/2e/97db2ea0b6a8cbed0fe04a1fc3cae17a.jpg" alt="Flores Rosadas">
 </p>
 
 <p align="center">
-  🌸 Estudio en la FCFM
   <br>
   🌸 En mi tiempo libre me gusta jugar, mi juego favorito es Metro 2033
   <br>
-  🌸 Me encanta Barbie, las princesas Disney y las peliculas de terror
+  🌸 Me encanta Barbie y las peliculas de terror
   <br>
-  🌸 Me gustaria tener una rata
 </p>
 
 
@@ -33,5 +37,4 @@
 <hr>
 
 <p align="center">
-  Hecho con  💖 por Michis
 </p>
